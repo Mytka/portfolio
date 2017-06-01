@@ -111,7 +111,7 @@ select:focus {
 
 .portfolio {
     background: #fff;
-    padding: 70px 0 100px;
+    padding: 70px 0 50px;
 }
 .container:after,
 .row:after {
@@ -148,6 +148,7 @@ select:focus {
 }
 .portfolio-item-img {
     margin-bottom: 17px;
+	min-height: 174px;
 }
 .portfolio-item-title {
     font-size: 24px;
